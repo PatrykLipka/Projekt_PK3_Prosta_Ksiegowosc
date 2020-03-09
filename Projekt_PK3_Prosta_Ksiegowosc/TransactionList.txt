@@ -1,0 +1,14 @@
+Patryk Syn 9.96 21 4 2018 Tesco Szynka Mieso Tesco 2.49 Szynka Mieso Tesco 2.49 Szynka Mieso Tesco 2.49 Szynka Mieso Tesco 2.49
+Transaction
+Patryk Syn 14.25 29 3 2013 Tesco Kurczak Mieso Tesco 3.49 Kurczak Mieso Tesco 3.49 Kurczak Mieso Tesco 3.49 Mars Slodycze Tesco 1.89 Mars Slodycze Tesco 1.89
+Transaction
+Pawel Syn 10.46 28 2 2013 Kaufland Kurczak Mieso Kaufland 7.48 Mars Slodycze Kaufland 1.49 Mars Slodycze Kaufland 1.49
+Transaction
+Blazej Kuzyn 2.5 23 3 2013 Biedronka Ryz Sypkie Biedronka 2.5
+Transaction
+Patryk Syn 8.48 29 2 2016 Lidl Czekolada Slodycze Lidl 3.49 Hamburger FastFood Lidl 4.99
+Transaction
+Jozef Dziadek 9.37 30 4 2019 Biedronka Zelki Slodycze Biedronka 3.49 Zelki Slodycze Biedronka 3.49 Kalafior Warzywa Biedronka 1.39 Marchewka Warzywa Biedronka 1
+Transaction
+Grzegorz Wujek 2 20 1 2020 Aldi Twix Slodycze Aldi 2
+Transaction
